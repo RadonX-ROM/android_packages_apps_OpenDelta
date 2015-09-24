@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">OpenDelta</string>
-    <string name="title">Minimal updates</string>
+    <string name="app_name">RadonOTA</string>
+    <string name="title">RadonX updates</string>
 
     <string name="action_networks">Networks</string>
     <string name="title_networks">Auto-update networks</string>
@@ -24,7 +24,7 @@
         Delta decoding based on <b>xdelta</b>, copyright &copy; _COPYRIGHT_XDELTA_ <b>Joshua MacDonald</b><br>
     ]]></string>
 
-    <string name="state_action_none">Your system is up to date</string>
+    <string name="state_action_none">Your system is up to date!</string>
     <string name="state_action_checking">Checking for updates &#8230;</string>
     <string name="state_action_checking_md5">Verifying file &#8230;</string>
     <string name="state_action_searching">Searching for files &#8230;</string>
@@ -33,8 +33,8 @@
     <string name="state_action_applying">Patching &#8230;</string>	
     <string name="state_action_applying_patch">Patching &#8230;</string>
     <string name="state_action_applying_md5">Verifying file &#8230;</string>
-    <string name="state_action_ready">An update is available</string>
-    <string name="state_error_disk_space">Not enough disk space !</string>
+    <string name="state_action_ready">An update is available!</string>
+    <string name="state_error_disk_space">Not enough disk space</string>
     <string name="state_error_unknown">Unknown error</string>
 
     <string name="error_disk_space_sub" formatted="false">%d MiB available, %d MiB required</string>
